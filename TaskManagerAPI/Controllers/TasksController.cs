@@ -22,6 +22,5 @@ namespace TaskManagerAPI.Controllers
 
             return Ok(new { message = "Task enviada para a fila!" });
         }
-
     }
 }
